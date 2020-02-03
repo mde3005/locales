@@ -1,9 +1,9 @@
 {
     "action": {
-        "add": "",
-        "editOrder": "",
-        "mergeOrder": "",
-        "export": "",
+        "add": "Ajouter",
+        "editOrder": "Éditer la commande",
+        "mergeOrder": "Rapprocher les commandes",
+        "export": "Exporter",
         "isExporting": "",
         "modify": "",
         "confirm": "",
